@@ -1,3 +1,3 @@
 # vinhos-springmvc
-## Cadastro de vinhos utilizando o framework Spring MVC 
-## (em desenvolvimento...)
+## CRUD de Vinho em Java usando o Framework Spring MVC 
+
